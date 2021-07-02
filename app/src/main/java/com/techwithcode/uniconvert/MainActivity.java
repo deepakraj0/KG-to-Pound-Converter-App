@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText editText;
 
     // Github Testing
+    // Github Testing 2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
